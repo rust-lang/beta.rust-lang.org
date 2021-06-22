@@ -13,7 +13,7 @@ fluent-locale = "0.10.1"
 handlebars-fluent = "0.2.0"
 rand = "0.8"
 regex = "1"
-rocket = "0.4.7"
+rocket = "0.4.10"
 serde = { version = "1.0", features = ["derive"] }
 serde_yaml = "0.8.17"
 sass-rs = "0.2.1"
