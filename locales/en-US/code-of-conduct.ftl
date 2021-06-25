@@ -12,10 +12,30 @@ coc-conduct-description =
           <li>Please be kind and courteous. There’s no need to be mean or rude.</li>
           <li>Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.</li>
           <li>Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.</li>
-          <li>We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term “harassment” as including the definition in the <a href="https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md">Citizen Code of Conduct</a>; if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don’t tolerate behavior that excludes people in socially marginalized groups.</li>
+          <li>We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term “harassment” as described in the section below; if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don’t tolerate behavior that excludes people in socially marginalized groups.</li>
           <li>Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the channel ops or any of the { $coc-rust-moderation-team-anchor } immediately. Whether you’re a regular contributor or a newcomer, we care about making this community a safe place for you and we’ve got your back.</li>
           <li>Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.</li>
         </ul>
+coc-conduct-harrassment-heading = Unacceptable Behaviour
+coc-conduct-harrassment-description =
+        <p>The following behaviors are considered harassment and are unacceptable within our community:</p>
+
+        <ul>
+          <li>Violence, threats of violence or violent language directed against another person.</li>
+          <li>Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.</li>
+          <li>Posting or displaying sexually explicit or violent material.</li>
+          <li>Posting or threatening to post other people's personally identifying information ("doxing").</li>
+          <li>Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.</li>
+          <li>Inappropriate photography or recording.</li>
+          <li>Inappropriate physical contact. You should have someone's consent before touching them.</li>
+          <li>Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.</li>
+          <li>Deliberate intimidation, stalking or following (online or in person).</li>
+          <li>Advocating for, or encouraging, any of the above behavior.</li>
+          <li>Sustained disruption of community events, including talks and presentations.</li>
+        </ul>
+        <p><i>Adapted from the <a href="https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md">Stumptown Syndicate Citizen Code of Conduct</a>.</i></p>
+
+
 coc-conduct-description-team-anchor-text = Rust moderation team
 coc-conduct-email-button = Email The Moderation Team
 
