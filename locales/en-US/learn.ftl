@@ -64,6 +64,19 @@ learn-unstable-alt = A hand sharing sparkles
 learn-unstable = The Unstable Book has documentation for unstable features that you can only use with nightly Rust.
 learn-unstable-button = Read the unstable book
 
+## Additional resources
+
+learn-additional-resources = Additional, as-yet unofficial, documentation that may be of help to you.
+
+learn-additional-resources-api-guidelines = The <cite>The Rust API Guidelines</cite> provide a concise list of things to do while designing a crate.  Make your crate awesome; follow the guidelines.
+learn-additional-resources-api-guidelines-button = Read the guidelines
+
+learn-additional-resources-design-patterns = Common Rust design patterns.  Ever heard of the builder pattern and wanted to learn more? Ever wondered about idiomatic Rust?  Look here.
+learn-additional-resources-design-patterns-button = Read the design patterns
+
+learn-additional-resources-cookbook = Rust recipes.  You're busy, and you need some good code, right now.  This might have the snippet you need.
+learn-additional-resources-cookbook-button = Read the cookbook
+
 ## learn/get-started.hbs
 
 learn-get-started-page-title = { getting-started }
