@@ -78,7 +78,6 @@ learn-generating-steps =
     { $tree }
     <p><code>Cargo.toml</code>, Rust için manifesto dosyasıdır. Burası projenizin metaverisini sakladığınız yer olmakla birlikte, bağımlılıkların da belirtildiği yerdir.</p>
     <p>Uygulama kodunuzun bulunduğu yer ise <code>src/main.rs</code>'dir.</p>
-    <hr/>
     <p><code>cargo new</code>, bizim için yeni bir "Merhaba, dünya!" projesi oluşturur! Bu programı yeni bir dizine taşıyıp, aşağıdaki kodla uçbirimimizde çalıştırabiliriz:</p>
     <p><code>cargo run</code></p>
     <p>Uçbiriminizde şu çıktıyı almanız gerekmektedir:</p>

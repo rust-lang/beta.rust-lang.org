@@ -79,7 +79,6 @@ learn-generating-steps =
     { $tree }
     <p><code>Cargo.toml</code> 是 Rust 的 manifest 檔案，它是保存專案 metadata 與相依套件資訊的地方。</p>
     <p><code>src/main.rs</code> 是我們要編寫程式碼的地方。</p>
-    <hr/>
     <p><code>cargo new</code> 會為我們產生一個「Hello, world!」的專案！我們可以移動到這個新的目錄並在我們的終端機上執行：</p>
     <p><code>cargo run</code></p>
     <p>您應該會在終端機上看到以下訊息：</p>

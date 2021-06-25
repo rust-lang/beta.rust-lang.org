@@ -79,7 +79,6 @@ learn-generating-steps =
     { $tree }
     <p><code>Cargo.toml</code> é o manifesto de um projeto Rust. Aqui você encontra todos os metadados do projeto, assim como as declarações de dependência.</p>
     <p><code>src/main.rs</code> é onde nos vamos escrever nossa aplicação.</p>
-    <hr/>
     <p><code>cargo new</code> gera um projeto "Hello, world!" para você! Você pode executar esse programa entrando no diretório recém criado e executando o seguinte no seu terminal:</p>
     <p><code>cargo run</code></p>
     <p>Você deveria ver a seguinte saída no terminal:</p>

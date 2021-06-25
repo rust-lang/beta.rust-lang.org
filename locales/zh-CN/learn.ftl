@@ -83,7 +83,6 @@ learn-generating-steps =
     { $tree }
     <p><code>Cargo.toml</code> 为 Rust 的清单文件。其中包含了项目的元数据和依赖库。</p>
     <p><code>src/main.rs</code> 为编写应用代码的地方。</p>
-    <hr/>
     <p><code>cargo new</code> 会生成一个新的“Hello, world!”项目！我们可以进入新创建的目录中，执行下面的命令来运行此程序：</p>
     <p><code>cargo run</code></p>
     <p>您应该会在终端中看到如下内容：</p>

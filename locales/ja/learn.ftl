@@ -79,7 +79,6 @@ learn-generating-steps =
     { $tree }
     <p><code>Cargo.toml</code>はRust用のマニフェストファイルです。プロジェクトのメタデータに加え依存関係も記録されます。</p>
     <p><code>src/main.rs</code>がアプリケーションのコードを書く場所です。</p>
-    <hr/>
     <p><code>cargo new</code>は「Hello, world!」プロジェクトを生成します！ターミナルで作成した新しいディレクトリに移動し、以下を実行することでこのプログラムを実行できます：</p>
     <p><code>cargo run</code></p>
     <p>以下の出力が得られるはずです：</p>
