@@ -1,0 +1,19 @@
+version: 2
+updates:
+- package-ecosystem: cargo
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: serde_json
+    versions:
+    - 1.0.63
+  - dependency-name: handlebars
+    versions:
+    - 3.5.2
+    - 3.5.3
+  - dependency-name: fluent-bundle
+    versions:
+    - 0.14.3
+    - 0.14.4
